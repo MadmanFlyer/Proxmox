@@ -1,0 +1,1 @@
+# HOME ASSISTANT VM INSTALLATION with proxmox
